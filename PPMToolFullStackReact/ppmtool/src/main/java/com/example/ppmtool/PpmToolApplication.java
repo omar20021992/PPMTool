@@ -1,13 +1,13 @@
-package io.agileintelligence.ppmtool;
+package com.example.ppmtool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PpmtoolApplication {
+public class PpmToolApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PpmtoolApplication.class, args);
+        SpringApplication.run(PpmToolApplication.class, args);
     }
 
 }
