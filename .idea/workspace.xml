@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd794a6d-d613-4835-b553-a908e45f5800" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/PpmToolApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/controllers/ProjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/domain/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/exceptions/CustomeResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/exceptions/ProjectIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/exceptions/ProjectIdExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/repositories/ProjectRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/services/MapValidationErrorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/java/com/example/ppmtool/services/ProjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStackReact/ppmtool/src/test/java/com/example/ppmtool/PpmToolApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/actions/projectActions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/actions/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Layout/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Project/AddProject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Project/CreateProjectButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Project/ProjectItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Project/UpdateProject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/reducers/errorReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/reducers/projectReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/store.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q2YLPZx4jkHcMPx9nDsYOhMzxS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/omaromarov/Desktop/PPMTool"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd794a6d-d613-4835-b553-a908e45f5800" name="Changes" comment="" />
+      <created>1684553086941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684553086941</updated>
+    </task>
+    <servers />
+  </component>
+</project>
