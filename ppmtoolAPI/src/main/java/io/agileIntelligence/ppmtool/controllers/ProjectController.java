@@ -38,8 +38,21 @@ public class ProjectController {
      public ResponseEntity<?> getProjectById(@PathVariable String projectId){
         Project project = projectService.findProjectByIdentifier(projectId.toUpperCase());
        return new ResponseEntity<Project>(project, HttpStatus.OK);
+    }
 
-     }
+    @GetMapping("/all")
+    public Iterable<Project> getAllProject(){
+        return projectService.findAllProjects();
+    }
+
+    @DeleteMapping("/{projectId}")
+    public ResponseEntity<?> deleteProject(@PathVariable String projectId){
+        projectService.deleteProjectByIdentifier(projectId.toUpperCase());
+        return new ResponseEntity<String>("Project with id: '"+projectId+"' was deleted", HttpStatus.OK);
+    }
+
+
+
 
 
 
